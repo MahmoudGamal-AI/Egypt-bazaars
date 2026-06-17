@@ -1,0 +1,32 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "egyptian-tourism-app",
+          "appId": "1:PLACEHOLDER
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "egyptian-tourism-app",
+          "configurations": {
+            "android": "1:PLACEHOLDER
+            "ios": "1:PLACEHOLDER
+            "macos": "1:PLACEHOLDER
+            "web": "1:PLACEHOLDER
+            "windows": "1:PLACEHOLDER
+          }
+        }
+      }
+    }
+  },
+  "functions": {
+    "source": "functions"
+  }
+}

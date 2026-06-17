@@ -1,0 +1,78 @@
+# =========================
+# Security & Environment Variables
+# =========================
+.env
+service_account.json
+*.pem
+*.key
+
+# =========================
+# Python & AI Backend
+# =========================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+chroma_db/
+*.sqlite3
+
+# =========================
+# Flutter/Dart/Pub related
+# =========================
+**/doc/api/
+.dart_tool/
+.pub-cache/
+pubspec.lock
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+android/Flutter/build/
+android/app/libs/
+android/app/src/main/assets/
+android/.gradle/
+
+# =========================
+# Node modules
+# =========================
+node_modules/
+dist/
+coverage/
+
+# =========================
+# Firebase
+# =========================
+.firebase/
+firebase-debug.log
+firebaserc
+
+# =========================
+# IDEs & Editors
+# =========================
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+#.vscode/
+
+# =========================
+# Miscellaneous OS Files
+# =========================
+*.class
+*.log
+*.lock
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
