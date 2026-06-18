@@ -74,16 +74,19 @@ The application seamlessly integrates advanced intelligence to guide the tourist
 * **Visual Search (Search by Image):** Tourists can simply upload or take a picture of an item they like. The AI processes the image and instantly retrieves visually and contextually similar products from the marketplace inventory.
 
 <div align="center">
-  <b>AI Chatbot & Smart Features in Action</b><br/><br/>
-  <img src="readme_assets/WhatsAppVideo2026-06-16at11.33.17AM-ezgif.com-optimize.gif" alt="Tourist Interaction 1" width="220"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="readme_assets/WhatsAppVideo2026-06-16at11.33.17AM-ezgif.com-video-to-gif-converter.gif" alt="Tourist Interaction 2" width="220"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="readme_assets/WhatsAppVideo2026-06-18at2.43.07AM-ezgif.com-video-to-gif-converter (1).gif" alt="Tourist Interaction 3" width="220"/>
+  <b>1. Main Platform Discovery</b><br/><br/>
+  <img src="readme_assets/WhatsAppVideo2026-06-18at2.59.01AM-ezgif.com-video-to-gif-converter.gif" alt="Main Discovery" width="250"/>
+</div>
+<br/>
+<div align="center">
+  <b>2. Intelligent AI Search (Semantic & Visual)</b><br/><br/>
+  <img src="readme_assets/WhatsAppVideo2026-06-16at11.33.17AM-ezgif.com-video-to-gif-converter.gif" alt="Semantic Search 1" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="readme_assets/WhatsAppVideo2026-06-16at11.33.17AM-ezgif.com-optimize.gif" alt="Semantic Search 2" width="250"/>
   <br/><br/>
-  <img src="readme_assets/WhatsAppVideo2026-06-18at2.48.25AM-ezgif.com-video-to-gif-converter.gif" alt="Tourist Interaction 4" width="220"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="readme_assets/WhatsAppVideo2026-06-18at2.59.01AM-ezgif.com-video-to-gif-converter.gif" alt="Tourist Interaction 5" width="220"/>
+  <img src="readme_assets/WhatsAppVideo2026-06-18at2.43.07AM-ezgif.com-video-to-gif-converter (1).gif" alt="Image Search 1" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="readme_assets/WhatsAppVideo2026-06-18at2.48.25AM-ezgif.com-video-to-gif-converter.gif" alt="Image Search 2" width="250"/>
 </div>
 <br/>
 <div align="center">
